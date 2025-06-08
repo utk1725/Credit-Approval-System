@@ -1,5 +1,3 @@
-Here’s your updated **README** with a **License** section and your **Contact Information** included at the bottom:
-
 ---
 
 # 🏦 Credit Approval System
